@@ -1,0 +1,33 @@
+.image{
+    height:40em; background-size:cover; width:auto;
+    background-image:url('http://www.keypoint-uk.co.uk/wp-content/uploads/2018/03/cropped-Savin-NY-Website-Background-Web.jpg');
+    background-position:50% 50%;
+}
+
+.image2{
+    background: url(//css.brilliantearth.com/static/img/home/ir245/home-hero.jpg) top center no-repeat;
+    height: 484px;
+}
+
+.container{
+    text-align: center;
+    vertical-align: middle;
+    padding: 100px;
+}
+
+.title{
+    font-size: 700%;
+    font-family: 'JulesBig BookSwashes';
+    color: rgba(13, 13, 172, 0.849);
+}
+
+.subtitle{
+    font-size: 250%;
+    font-family: 'JulesBig BookSwashes';
+    color: rgba(13, 13, 172, 0.849);
+}
+
+.mat-raised-button{
+    width: 50%;
+}
+
