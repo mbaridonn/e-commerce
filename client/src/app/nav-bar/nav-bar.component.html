@@ -1,0 +1,26 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <span>Home</span>
+    <span class="example-spacer"></span>
+    <button mat-button [matMenuTriggerFor]="menu">Products</button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item>
+        <mat-icon>kitchen</mat-icon>
+        <span>Kitchen</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>power</mat-icon>
+        <span>Electricity</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>child_care</mat-icon>
+        <span>Children</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>videogame_asset</mat-icon>
+        <span>Consoles</span>
+      </button>
+    </mat-menu>
+    <button mat-button>Contact</button>
+  </mat-toolbar-row>
+</mat-toolbar>
