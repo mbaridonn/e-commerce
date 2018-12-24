@@ -1,6 +1,6 @@
 <mat-toolbar color="primary">
   <mat-toolbar-row>
-    <span [routerLink]="['']">Home</span>
+    <button mat-button [routerLink]="['']">Home</button>
     <span class="example-spacer"></span>
     <button mat-button [matMenuTriggerFor]="menu">Products</button>
     <mat-menu #menu="matMenu">
@@ -21,6 +21,6 @@
         <span>Consoles</span>
       </button>
     </mat-menu>
-    <button mat-button>Contact</button>
+    <button mat-button [routerLink]="['contact']">Contact</button>
   </mat-toolbar-row>
 </mat-toolbar>

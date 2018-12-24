@@ -12,6 +12,7 @@ import { HomeComponent } from './home/home.component';
 import { ProductCardComponent } from './product-card/product-card.component';
 import { HttpClientModule } from '@angular/common/http';
 import {MatGridListModule} from '@angular/material/grid-list';
+import { ContactComponent } from './contact/contact.component';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import {MatGridListModule} from '@angular/material/grid-list';
     NavBarComponent,
     ProductsComponent,
     HomeComponent,
-    ProductCardComponent
+    ProductCardComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
