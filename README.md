@@ -1,2 +1,2 @@
 # e-commerce
-MEAN app
+Frontend with Angular 6.2.5
