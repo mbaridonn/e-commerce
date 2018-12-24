@@ -3,120 +3,84 @@
       "productId": 1,
       "productName": "Chair",
       "productCode": "GDN-0011",
-      "releaseDate": "March 19, 2016",
-      "description": "$70",
       "price": 19.95,
-      "starRating": 3.2,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/chair_2_1_1024x1024.jpg?v=1469433474"
     },
     {
       "productId": 2,
       "productName": "Armchair",
       "productCode": "GDN-0023",
-      "releaseDate": "March 18, 2016",
-      "description": "$150",
       "price": 32.99,
-      "starRating": 4.2,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/tC9QjpvSQQ_Paddington_Deux_Lounge_Set_large.jpg?v=1469433537"
     },
     {
       "productId": 3,
       "productName": "Table",
       "productCode": "TBX-0048",
-      "releaseDate": "May 21, 2016",
-      "description": "$170",
       "price": 8.9,
-      "starRating": 4.8,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/table_1_1_1024x1024.jpg?v=1469433534"
     },
     {
       "productId": 4,
       "productName": "Clock",
       "productCode": "TBX-0022",
-      "releaseDate": "May 15, 2016",
-      "description": "$210",
       "price": 11.55,
-      "starRating": 3.7,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/12622_Saxon_White_1024x1024.jpg?v=1469433450"
     },
     {
       "productId": 5,
       "productName": "Shelves",
       "productCode": "GMG-0042",
-      "releaseDate": "October 15, 2015",
-      "description": "$280",
       "price": 35.95,
-      "starRating": 4.6,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/shelve_1_1_1024x1024.jpg?v=1469433525"
     },
     {
       "productId": 6,
       "productName": "Lamp",
       "productCode": "TBX-0048",
-      "releaseDate": "May 21, 2016",
-      "description": "$110",
       "price": 8.9,
-      "starRating": 4.8,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/light_1_1_1024x1024.jpg?v=1469433443"
     },
     {
       "productId": 7,
       "productName": "Pillow",
       "productCode": "TBX-0022",
-      "releaseDate": "May 15, 2016",
-      "description": "$90",
       "price": 11.55,
-      "starRating": 3.7,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/pillow_1_2_1024x1024.jpg?v=1469433518"
     },
     {
       "productId": 8,
       "productName": "Drawers",
       "productCode": "GMG-0042",
-      "releaseDate": "October 15, 2015",
-      "description": "$120",
       "price": 35.95,
-      "starRating": 4.6,
       "imageUrl": "//cdn.shopify.com/s/files/1/1402/6971/products/chest_1_1_1024x1024.jpg?v=1469433483"
     },
     {
       "productId": 9,
       "productName": "Play Station 4",
       "productCode": "GMG-0042",
-      "releaseDate": "October 15, 2015",
-      "description": "$500",
       "price": 35.95,
-      "starRating": 4.6,
       "imageUrl": "https://media.playstation.com/is/image/SCEA/playstation-4-slim-vertical-product-shot-01-us-07sep16?$native_t$"
     },
     {
       "productId": 10,
       "productName": "Xbox 360",
       "productCode": "GMG-0042",
-      "releaseDate": "October 15, 2015",
-      "description": "$450",
       "price": 35.95,
-      "starRating": 4.6,
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41God7KwSOL.jpg"
     },
     {
       "productId": 11,
       "productName": "Nintendo Switch",
       "productCode": "GMG-0042",
-      "releaseDate": "October 15, 2015",
-      "description": "$370",
       "price": 35.95,
-      "starRating": 4.6,
       "imageUrl": "https://www.8-bits.cl/image/catalog/Productos/Accesorios%20SWITCH/neon.jpg"
     },
     {
       "productId": 12,
       "productName": "Teddy Bear",
       "productCode": "GMG-0042",
-      "releaseDate": "October 15, 2015",
-      "description": "$60",
       "price": 35.95,
-      "starRating": 4.6,
       "imageUrl": "https://i5.walmartimages.com/asr/7617e51c-6004-42c1-ae63-006728db4ced_1.e3d0bbf4faa40c0a21af34e4f1d02546.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
     }
   ]
